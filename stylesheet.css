@@ -1,0 +1,71 @@
+.page {
+  background-color: #f0f0f0;
+  background-image: url("https://www.transparenttextures.com/patterns/tileable-wood.png");
+  border: 1px solid #f0f0f0;
+  margin: 50px 50px 50px 50px;
+}
+.intro {
+  font-family: tangerine;
+  font-size: 48px;
+  text-align: center;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: #125022;
+}
+.button {
+  text-align:center;
+}
+.newQuote {
+  border: 1px #125022 solid;
+  border-radius: 10px;
+  margin-top: 50px;
+  color: #125022;
+  background-color: #f0f0f0;
+  background-image: url("https://www.transparenttextures.com/patterns/tileable-wood.png");
+  font-family: Amatic SC;
+  font-size: 24px;
+}
+.newQuote:hover {
+  curser:pointer;
+  background-color: #B8D0BE;
+  color: white;
+  border: 1px solid white;
+   background-image: url("https://www.transparenttextures.com/patterns/tileable-wood.png");
+}
+.box {
+  text-align:center;
+  margin-top: 50px;
+  font-size: 60px;
+  background-color: white;
+  margin-right: 200px;
+  margin-left:200px;
+  background-color: #B8D0BE;
+  border-radius: 500px;
+  color: white;
+  padding: 50px;
+  font-family: Amatic SC;
+  background-image:
+  url("https://www.transparenttextures.com/patterns/tileable-wood.png");
+
+}
+#author {
+  font-size: 36px;
+  text-align: center;
+}
+.twit {
+  color:white;
+  margin-bottom: 200px;
+  margin-right: 400px;
+  margin-left: 400px;
+  margin-top: 5px;
+  text-align: center;
+}
+#tweet-me {
+  font-size: 48px;
+  color: #3994B1;
+}
+#tweet-me:hover {
+  curser:pointer;
+  color: #125022;
+}
